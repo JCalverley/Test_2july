@@ -8,3 +8,4 @@ Created on Tue Jul  2 12:07:31 2019
 
 import numpy as np
 
+n = 1
